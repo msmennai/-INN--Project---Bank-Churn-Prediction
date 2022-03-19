@@ -1,1 +1,1 @@
-# -INN--Project---Bank-Churn-Prediction
+# INN Project Bank Churn Prediction
